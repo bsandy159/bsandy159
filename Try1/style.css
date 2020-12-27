@@ -1,0 +1,67 @@
+body{
+    background-color: azure;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+
+}
+.contact{
+    display: inline-block;
+    width: 30px;
+    height:30px;
+}
+.top{
+    margin: 0%;
+    background-color:#f5f4f4;
+    width: 100%;
+    padding: 20px;
+    position: relative;
+}
+.tcloud{
+    position: absolute;
+    right: 30%;
+}
+.bcloud{
+    position: absolute;
+    left:20%;
+    top:35%;
+
+}
+h1{
+    font-family: 'Redressed', cursive;
+font-size: 4rem;
+color: #73af9a;
+margin-bottom: 0;
+}
+h3{
+    font-family: 'Langar', cursive;
+font-size: 2.5rem;
+color: #6a9e8c;
+margin-top: 0;
+}
+
+.me{
+    width:250px;
+    height: 250px;
+}
+.namaste{
+    display: inline;
+    width: 50px;
+    height: 50px;
+}
+p{
+    font-family: 'Merriweather', serif;
+font-size: 16px;
+color: black;
+padding: 0 10px 0 10px;
+}
+.computer{
+    width: 200px;
+    height: 200px;
+}
+.mid-2{
+    background-color:#f5f4f4;
+}
+.footer{
+    background-color:#f5f4f4; 
+}
